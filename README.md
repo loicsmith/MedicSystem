@@ -20,9 +20,13 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 - Massage cardiaque (échec)
 - Prise de sang
 - Vérification de la respiration
+- Perfusion
+- Maintien tête
+- Mettre en PLS
+- Mettre un collier cervical
 
 Pour ajoutez de nouvelles choses, veuillez me contacter :)
 
 ## Commandes
 
-Touche Alpha8 (au dessus de la touche U) : permet d'ouvrir le menu des interactions
+Touche M : permet d'ouvrir le menu des interactions
