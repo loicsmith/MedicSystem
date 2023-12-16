@@ -29,4 +29,4 @@ Pour ajoutez de nouvelles choses, veuillez me contacter :)
 
 ## Commandes
 
-Touche M : permet d'ouvrir le menu des interactions
+/medic ou /m : permet d'ouvrir le menu des interactions
