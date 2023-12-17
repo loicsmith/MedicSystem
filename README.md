@@ -1,3 +1,5 @@
+<img src="https://media.discordapp.net/attachments/1174014039333031936/1186032578038354060/MedicSystem.png" width="300"/>
+
 # PLUGIN MedicSytem
 
 Plugin de médecine sur le jeu Nova-Life : Amboise
