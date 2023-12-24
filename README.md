@@ -26,6 +26,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 - Maintien tête
 - Mettre en PLS
 - Mettre un collier cervical
+- Mettre une couverture de survie
 
 Pour ajoutez de nouvelles choses, veuillez me contacter :)
 
