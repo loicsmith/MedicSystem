@@ -16,6 +16,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 ## Fonctionalités
 - Système d'avertissement en cas de mise à jour
+- point bleu configurable (position et prix dans le fichier de configuration)
 
 ### interactions
 - Massage cardiaque (réussite)
